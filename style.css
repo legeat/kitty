@@ -1,3 +1,7 @@
 #hello{
-	background-color: #F44AFF;
+	font-size: 20px;
+	font-family: "Oswald", sans-serif;
+}
+body{
+	background-image: url(tripattern.png);
 }
