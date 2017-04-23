@@ -3,6 +3,6 @@
 	font-family: "Oswald", sans-serif;
 }
 body{
-	background-image: url(tripattern.png);
+	background-image: url("tripattern.png");
 	background-repeat: repeat-y;
 }
