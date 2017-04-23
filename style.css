@@ -1,7 +1,53 @@
-#hello{
-	font-size: 20px;
-	font-family: "Oswald", sans-serif;
-}
 body{
-	background-image: url("tripattern.png");
+	background: #EDEDED;
+}
+#box{
+	margin: 40px 40px 40px 40px;
+	background-image: url(tripattern.png);
+	box-shadow: 0 0 5px #727272;
+	padding: 10px;
+}
+h1{
+	letter-spacing: 5px;
+	font-family: Oswald;
+	font-size: 52px;
+	text-align: center;
+	color: #363636;
+}
+h2{
+	font-family: Oswald;
+	font-size: 30px;
+	text-align: center;
+    font-style: italic;
+    color: #363636;
+}
+#photo{
+	padding: 15px 150px;
+}
+#jimmytext{
+	text-align: center;
+	line-height: 30px;
+}
+#maintext{
+	padding-left: 80px;
+	padding-right: 80px;
+}
+#quote{
+	padding-right: 150px;
+	padding-left: 150px;
+	font-size: 40px;
+	font-style: italic;
+}
+#mark{
+font-style: italic;
+font-size: 25px;
+color: #666666;
+font-family: Oswald;
+text-align: right;
+padding-right: 150px;
+}
+#wiki{
+	text-align: left;
+	font-size: 19px;
+	padding-left: 80px;
 }
